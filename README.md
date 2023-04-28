@@ -15,8 +15,8 @@ This is a grocery app that helps supermarket calculate total price at checkout p
 >
 >All inventory were managed by restocking and reducing the stick avaliable
 
->**_2. Generate sales receipts for customers:_**
->
+**2. Generate sales receipts for customers:**
+
 >>* Compute sales by item and  selling price
 >>
 >>* Compute total sales for each customer 
@@ -27,7 +27,7 @@ This is a grocery app that helps supermarket calculate total price at checkout p
 
 **3. This app also has an inbuilt system that raises alarm once any inventory falls below 5 items.**
 
-In this section, the symstem automatically raise an alert whenever the items in each of the product inventory gets to 5 or below
+* In this section, the symstem automatically raise an alert whenever the items in each of the product inventory gets to 5 or below
 
 # The Model:
 
